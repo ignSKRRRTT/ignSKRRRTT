@@ -12,7 +12,7 @@
 
 ###
 
-<p align="center">Check out [my personal site](https://aiden.gg "aiden.gg") for more info!</p>
+<p align="center">Check out https://aiden.gg for more info!</p>
 
 ###
 
